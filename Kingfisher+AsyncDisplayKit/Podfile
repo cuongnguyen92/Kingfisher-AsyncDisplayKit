@@ -1,0 +1,10 @@
+
+target 'ASDKgram-Swift' do
+
+    use_frameworks!
+
+    pod 'Texture', '>= 2.0'
+    pod 'WebASDKImageManager'
+    pod 'Kingfisher'
+
+end

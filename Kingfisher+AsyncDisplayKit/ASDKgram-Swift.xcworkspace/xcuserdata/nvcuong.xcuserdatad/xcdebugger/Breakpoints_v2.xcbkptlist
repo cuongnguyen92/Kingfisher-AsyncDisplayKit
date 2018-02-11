@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/Kingfisher/Sources/ImageCache.swift"
+            timestampString = "540020187.1930749"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "295"
+            endingLineNumber = "295"
+            landmarkName = "retrieveImage(forKey:options:completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/Kingfisher/Sources/ImageCache.swift"
+            timestampString = "540020187.193401"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "296"
+            endingLineNumber = "296"
+            landmarkName = "retrieveImage(forKey:options:completionHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Kingfisher.ImageCache.retrieveImage(forKey: Swift.String, options: Swift.Optional&lt;Swift.Array&lt;Kingfisher.KingfisherOptionsInfoItem&gt;&gt;, completionHandler: Swift.Optional&lt;(Swift.Optional&lt;__ObjC.UIImage&gt;, Kingfisher.CacheType) -&gt; ()&gt;) -&gt; Swift.Optional&lt;Dispatch.DispatchWorkItem&gt;"
+                  moduleName = "Kingfisher"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///SwiftLibrary/Texture-master/examples_extra/ASDKgram-Swift/Pods/Kingfisher/Sources/ImageCache.swift"
+                  timestampString = "540028864.5270391"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "296"
+                  endingLineNumber = "296"
+                  offsetFromSymbolStart = "724">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in Kingfisher.ImageCache.retrieveImage(forKey: Swift.String, options: Swift.Optional&lt;Swift.Array&lt;Kingfisher.KingfisherOptionsInfoItem&gt;&gt;, completionHandler: Swift.Optional&lt;(Swift.Optional&lt;__ObjC.UIImage&gt;, Kingfisher.CacheType) -&gt; ()&gt;) -&gt; Swift.Optional&lt;Dispatch.DispatchWorkItem&gt;"
+                  moduleName = "Kingfisher"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///SwiftLibrary/Texture-master/examples_extra/ASDKgram-Swift/Pods/Kingfisher/Sources/ImageCache.swift"
+                  timestampString = "540028864.529671"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "293"
+                  endingLineNumber = "293"
+                  offsetFromSymbolStart = "18">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
